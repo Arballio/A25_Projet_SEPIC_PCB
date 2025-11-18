@@ -36,9 +36,7 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=73F91A0F-D39A-45BF-80E6-0B97DC51EB40
-VaultGUID=3EA2E078-A379-476D-9C6F-77A4BBF8134D
-ReleaseVaultName=Arthur Blanchard
+ManagedProjectGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=2
 CrossRefLocationStyle=0
@@ -86,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RCVEYUVS
 
 [Document3]
-DocumentPath=A25_PROJET_SEPIC_PCB.PcbDoc
+DocumentPath=S3E-A25P01-02A.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
